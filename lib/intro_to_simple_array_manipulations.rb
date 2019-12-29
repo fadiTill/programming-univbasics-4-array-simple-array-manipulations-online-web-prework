@@ -28,4 +28,11 @@ def using_uniq(2,2,3,3)
   using_uniq.uniq
 end
 
+def using_flatten (1,"hello world,2")
+  using_flatten.flatten
+end
 
+def using_delete(1,2:3,5,"Hello")
+  using_delete.delete
+end
+  
