@@ -6,7 +6,7 @@ def using_unshift (1,"b")
   using_unshift.unshift
 end
 
-def using_pop (1,2)
-  using_pop.pop
+def using_pop_args (1,2)
+  using_pop_args.pop
   def
   
