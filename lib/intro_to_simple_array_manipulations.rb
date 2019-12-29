@@ -19,3 +19,7 @@ def using_concat(array1,array2)
   array2 = (4,5,6)
   using_concat.using_concat
 end
+
+def using_insert(1,2,3)
+  using_insert.insert[4]
+end
