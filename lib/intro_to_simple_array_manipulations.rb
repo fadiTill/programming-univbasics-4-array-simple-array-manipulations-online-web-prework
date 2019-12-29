@@ -8,5 +8,8 @@ end
 
 def using_pop_args (1,2)
   using_pop_args.pop
-  def
-  
+end
+
+def shift_with_args(1,2,3)
+  shift_with_args.shift
+end
