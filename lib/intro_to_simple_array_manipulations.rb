@@ -35,4 +35,8 @@ end
 def using_delete(1,2:3,5,"Hello")
   using_delete.delete
 end
+
+def using_delete_at (1,2,3)
+  using_delete_at.delete at
+end
   
